@@ -1,4 +1,7 @@
-# Definition for singly-linked list given by Leetcode itself
+# SOLUTION OF LEETCODE LINKED LIST PROBLEM-2    link-'https://leetcode.com/problems/add-two-numbers/description/'
+
+
+# Function to create singly-linked list
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
